@@ -1,2 +1,2 @@
 # Dark Matter energy spectrum
-Mapping the energy spectrum of different models of dark matter, including cold dark matter and three different models of warm dark matter.
+Plotting the energy spectra of different dark matter models, including cold dark matter and three variants of warm dark matter.
