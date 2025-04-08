@@ -1,2 +1,2 @@
-# Dark-Matter-energy-spectrum
-绘制不同模型的暗物质能量谱，包括冷暗物质和三种不同模型的温暗物质
+# Dark Matter energy spectrum
+Mapping the energy spectrum of different models of dark matter, including cold dark matter and three different models of warm dark matter.
